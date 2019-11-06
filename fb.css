@@ -1,0 +1,321 @@
+a {
+    color: #009247;
+}
+
+.toolbar-background-md {
+    border-color: #009247;
+    background: #009247;
+}
+
+/* Behind the tabs */
+
+.core-tabs-bar {
+    color: #009247;
+    background-color: #fff;
+}
+
+/* Active tab */
+
+ion-app.app-root .core-tabs-bar .tab-slide[aria-selected=true] {
+    color: #009247!important;
+    border-bottom-color: #009247!important;
+    background: #fff!important;
+}
+
+/* In-active tab */
+
+ion-app.app-root .core-tabs-bar .tab-slide {
+    background: #fff;
+    color: #009247;
+}
+
+/* Graduation cap colour on frontpage - available courses */
+
+body.scheme-auto ion-app.app-root .ion-page .item ion-icon {
+    color: #a1a1a1;
+}
+
+/* Available courses H2 colour */
+
+body.scheme-auto ion-app.app-root .ion-page .item h2 {
+    color: #009247;
+}
+
+/* Main app body background colour */
+
+body.scheme-auto ion-app.app-root .ion-page .content-md {
+    background: #fff;
+}
+
+/* Main app toolbar bottom or side */
+
+.tabs-md .tabbar {
+    background: #009247;
+}
+
+/* Main app toolbar bottom or side icon selected */
+
+.tabs-md .tab-button[aria-selected=true] .tab-button-icon {
+    color: #fff;
+}
+
+/* Main app toolbar bottom or side icon not-selected */
+
+.tabs-md .tab-button-icon {
+    color: #fff;
+}
+
+/* Main app toolbar bottom or side icon selected fade */
+
+.enable-hover a:hover {
+    opacity: .8;
+}
+
+/* Show more truncated button */
+
+body.scheme-auto ion-app.app-root core-format-text[maxHeight].core-text-formatted.core-shortened .core-show-more {
+    background: #009247;
+    color: #fff;
+}
+
+/* Main app background - was grey */
+
+.content-md {
+    color: #3a3a3a;
+    background-color: #fff;
+}
+
+/* Main app background 2 */
+
+on-app.app-root core-empty-box .core-empty-box .core-empty-box-content {
+    background: #fff;
+}
+
+ion-app.app-root addon-calendar-calendar .addon-calendar-day.today .addon-calendar-day-number span {
+    background: #009247;
+}
+
+/* Main app plus add icon */
+
+.fab-md {
+    background-color: #009247;
+    /* In-course dividers */
+}
+
+
+
+button.alert-button.alert-button-md.alert-button-default.alert-button-default-md.ng-star-inserted {
+    color: #009247;
+}
+
+.select-text.ng-star-inserted {
+    color: #000;
+}
+
+.radio-md .radio-checked {
+    border-color: #000;
+}
+
+.radio-md .radio-inner {
+    background-color: #000;
+}
+
+.item-radio-checked.item-md ion-label {
+    color: #000;
+}
+
+[dir=ltr] ion-app.app-root .core-primary-selected-item {
+    border-left: calc(env(safe-area-inset-left) + 5px) solid #009247;
+}
+
+ion-icon.icon.icon-md.ion-ios-arrow-back {
+    color: #fff;
+}
+
+ion-icon.icon.icon-md.ion-ios-arrow-forward {
+    color: #fff;
+}
+
+.item-divider-md-light, .item-md-light {
+    color: #fff;
+    background-color: #16243D;
+}
+
+span.button.button-md.button-clear.button-clear-md.button-clear-md-gray.item-button.ng-star-inserted {
+    background: transparent;
+}
+
+[dir=ltr] ion-app.app-root core-split-view .split-pane-visible .split-pane-side .core-split-item-selected {
+    border-left: 5px solid #009247;
+}
+
+.toolbar-md-light .toolbar-background-md {
+    background: #fff;
+}
+
+ion-app.app-root .core-button-select .select-icon .select-icon-inner, ion-app.app-root ion-select.core-button-select .select-icon .select-icon-inner {
+    color: #16243D;
+}
+
+.alert-md .alert-button {
+    color: #009247;
+}
+
+p.item-heading.core-siteurl.ng-star-inserted {
+    display: none;
+}
+
+ion-item-divider.item.item-divider.item-md.item-divider-md {
+    background: #16243D;
+    color: #fff;
+}
+
+.item-md.item-input.ng-invalid.ng-touched:not(.input-has-focus):not(.item-input-has-focus) .item-inner {
+    border-bottom-color: #009247;
+    -webkit-box-shadow: inset 0 -1px 0 0 #009247;
+    box-shadow: inset 0 -1px 0 0 #009247;
+}
+
+.item-md.item-input.input-has-focus .item-inner, .item-md.item-input.item-input-has-focus .item-inner {
+    border-bottom-color: #009247;
+    -webkit-box-shadow: inset 0 -1px 0 0 #009247;
+    box-shadow: inset 0 -1px 0 0 #009247;
+}
+
+.button-clear-md {
+    color: #009247;
+}
+
+button.disable-hover.button.button-md.button-default.button-default-md.button-block.button-block-md {
+    background: #009247;
+}
+
+ion-app.app-root page-core-user-profile .core-user-communication-handlers .core-user-profile-handler .icon {
+    background-color: #009247;
+}
+
+.action-sheet-md .action-sheet-title {
+    color: #009247;
+}
+
+
+.core-course-thumb.core-course-color-img {
+    display: none;
+}
+
+
+span.core-button-select-text {
+    color: #009247;
+}
+
+
+ion-icon.icon.fa.fa-folder {
+    color: #009247;
+}
+
+
+ion-app.app-root core-course-format .core-format-progress-list .item progress .progress-bar-fallback {
+background-color: #f1f1f1;
+}
+
+
+ion-col.col.ng-star-inserted p {
+    color: #009247;
+}
+
+ion-app.app-root button.core-button-select .core-button-select-text {
+   color: #009247!important;
+}
+
+
+ion-icon.icon.icon-md.ion-md-arrow-dropdown {
+   color: #009247!important;
+}
+
+ion-app.app-root core-block .item-divider .icon {
+    color: #fff!important;
+}
+
+
+.core-course-thumb.core-course-color-img {
+    display: none!important;
+}
+
+
+a.button.button-md.button-default.button-default-md.button-block.button-block-md.item-button.ng-star-inserted {
+    background: #009247;
+}
+
+
+ion-app.app-root core-courses-course-progress ion-card.card .core-course-thumb.core-course-color-img {
+display: none
+}
+
+ion-app.app-root core-courses-course-progress ion-card.card .core-course-thumb img {
+display: none
+}
+
+button.disable-hover.core-user-profile-handler.addon-messages-removecontact-handler.button.button-md.button-outline.button-outline-md.button-block.button-block-md.item-button.ng-star-inserted {
+    border-color: blue;
+    color: #009247;
+}
+
+
+button.disable-hover.core-user-profile-handler.addon-messages-blockcontact-handler.button.button-md.button-outline.button-outline-md.button-block.button-block-md.item-button.ng-star-inserted {
+    border-color: #009247;
+    color: #009247;
+}
+
+
+ion-app.app-root button.core-button-select .core-button-select-text {
+    overflow: hidden;
+    text-overflow: ellipsis;
+    line-height: 2em;
+    white-space: nowrap;
+    color: #009247;
+}
+
+
+a.disable-hover.button.button-md.button-default.button-default-md.button-block.button-block-md {
+    background: #009247;
+}
+
+
+.button-outline-md {
+   
+    border-color: #009247;
+    color: #009247;
+
+}
+
+.core-button-select {
+    color: #009247!important;
+}
+
+ion-app.app-root.md .button-md-light {
+    color: #009247!important;
+}
+
+
+
+
+a.disable-hover.item-button.button.button-md.button-default.button-default-md.button-block.button-block-md {
+    background: #009247!important
+}
+
+.fab-md.activated {
+background: #16243D;
+}
+
+button.disable-hover.button.button-md.button-default.button-default-md.ng-star-inserted {
+    background: #009247!important
+}
+
+a.disable-hover.button.button-md.button-default.button-default-md.button-block.button-block-md.button-md-light.ng-star-inserted {
+ background: #fff;
+}
+
+
+.core-course-thumb.core-course-color-img {
+    display: none;
+}
